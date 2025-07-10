@@ -1,0 +1,6 @@
+site_name: AIAA Jet Noise Prediction Workshop
+site_url: https://aiaa-jnpw.github.io/aiaa-jnpw/
+theme:
+  name: material
+
+
