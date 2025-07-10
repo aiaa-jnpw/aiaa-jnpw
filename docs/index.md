@@ -42,5 +42,4 @@ The Jet Noise Prediction Workshop (JNPW) aims to establish a community-driven, s
 
 We are currently preparing for the inaugural workshop event, planned for 2026 at AIAA Aviation or the Aeroacoustics Conference. More details will be available soon.
 
-🚀 Want to get involved? [Join us here](participate/how_to_join.md)
 
