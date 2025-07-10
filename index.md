@@ -1,5 +1,7 @@
 ---
+layout: home
 title: Jet Noise Prediction Workshop (JNPW)
+permalink: /
 ---
 
 <center>

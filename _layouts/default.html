@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {{ site.seo_tag }}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" />
+  </head>
+
+  <body>
+    <header>
+      <div class="wrapper">
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+
+        <nav>
+          <ul>
+            {% for page in site.header_pages %}
+              <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrapper">
+      {{ content }}
+    </main>
+
+    <footer>
+      <div class="wrapper">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
+
