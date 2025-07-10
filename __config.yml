@@ -1,26 +1,18 @@
 title: Jet Noise Prediction Workshop
 description: A community benchmark effort for jet noise CFD prediction
 url: "https://aiaa-jnpw.github.io"
-baseurl: ""  # leave empty for root GitHub Pages
+baseurl: ""
 
-theme: jekyll-theme-government
+theme: minima
 
-markdown: kramdown
-kramdown:
-  input: GFM
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
 
-navigation:
-  - name: Home
-    link: /
-  - name: About
-    link: /about
-  - name: Downloads
-    link: /downloads
-  - name: Contact
-    link: /contact
+header_pages:
+  - contact.md
+  - about.md
+  - downloads.md
 
