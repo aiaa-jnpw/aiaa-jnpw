@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jet Noise Prediction Workshop (JNPW)
+title: Home (JNPW)
 permalink: /
 ---
 

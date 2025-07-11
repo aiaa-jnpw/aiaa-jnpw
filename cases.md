@@ -8,6 +8,11 @@ permalink: /cases/
 
 The Jet Noise Prediction Workshop (JNPW) will release a series of three test cases in successive phases, each aligned with the AIAA Aviation and SciTech conference cycles (approximately every six months). These cases are designed to progressively increase in physical and geometric complexity, enabling a thorough benchmarking of predictive CFD capabilities across the community.
 
+**The test cases for JNPW are defined in the following document:**  
+[**JNPW_Test_Cases_v1.0.pdf**](downloads/JNPW_Test_Cases_v1.0.pdf) *(last updated: 07/11/2025)*
+
+
+
 ---
 <br>
 
