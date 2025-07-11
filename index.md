@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page 
 title: Jet Noise Prediction Workshop (JNPW)
 permalink: /
 ---
