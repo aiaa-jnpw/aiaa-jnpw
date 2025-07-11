@@ -4,15 +4,13 @@ title: Jet Noise Prediction Workshop (JNPW)
 permalink: /
 ---
 
-<main>
-  <div class="big-banner-text">
-    Welcome to the Jet Noise Prediction Workshop!
-  </div>
-</main>
+<div style="text-align: center; color: #007acc; font-size: 1.9rem; font-weight: bold; margin: 2rem 0;">
+  Welcome to the 1st Jet Noise Prediction Workshop
+</div>
 
 <center>
   <img src="{{'/assets/images/AIAA_logo.png' | relative_url }}" height="75"> 
-  <img src="{{'/assets/images/NASA_logo.png' | relative_url }}" height="75">
+  <img src="{{'/assets/images/NASA_logo.png' | relative_url }}" height="100">
 </center>
 <br>
 <center>
