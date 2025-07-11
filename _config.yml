@@ -1,10 +1,8 @@
 theme: minima
 title: Jet Noise Prediction Workshop
 author: Organizing committee
-#url: "https://aiaa-jnpw.github.io"
-description: >
-A community benchmark effort for jet noise CFD prediction
-
+url: "https://aiaa-jnpw.github.io"
+description: A community benchmark effort for jet noise CFD prediction
 header_pages:
   - index.md
   - about.md

@@ -10,5 +10,5 @@ Email: [jetnoisepredictionworkshop@gmail.com](mailto:jetnoisepredictionworkshop@
 
 Organizers:
 - Dr. James Bridges (NASA Glenn)
-- Dr. Gerrit-Daniel Stich (NASA Ames / AMA)
+- Gerrit-Daniel Stich (NASA Ames / AMA)
 
