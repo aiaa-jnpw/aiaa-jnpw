@@ -12,3 +12,10 @@ The Jet Noise Prediction Workshop is organized to benchmark and advance high-fid
 - Solver-to-solver comparisons
 - Community best practices
 
+<br>
+
+---
+Recent significant updates:
+
+- **July 11, 2025** – Initial draft created
+

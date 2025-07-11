@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="text-align: center; color: #007acc; font-size: 1.9rem; font-weight: bold; margin: 2rem 0;">
-  Welcome to the 1st Jet Noise Prediction Workshop
+  Welcome to the 1<sup>st</sup> Jet Noise Prediction Workshop
 </div>
 
 <center>
@@ -21,7 +21,7 @@ permalink: /
 <br>
 
 ## **Jet Noise Prediction Workshop (JNPW)**
-Welcome to the website of the Jet Noise Prediction Workshop (JNPW). We are currently organizing the 1st workshop, which is planned to be held at AIAA SciTech 2027. A special session with early participants and pre-released reference cases is also being planned for AIAA Aviation and/or the AIAA/CEAS Aeroacoustics Conference in Brussels in 2026. We are in the process of assembling the organizing committee and look forward to bringing together experts from across the aeroacoustics and CFD communities worldwide.
+Welcome to the website of the Jet Noise Prediction Workshop (JNPW). We are currently organizing the 1<sup>st</sup> workshop, which is planned to be held at AIAA SciTech 2027. A special session with early participants and pre-released reference cases is also being planned for AIAA Aviation and/or the AIAA/CEAS Aeroacoustics Conference in Brussels in 2026. We are in the process of assembling the organizing committee and look forward to bringing together experts from across the aeroacoustics and CFD communities worldwide.
 
 The overall goal of this workshop series is to promote LES as a trustworthy and efficient tool for aeroacoustic engineers, with a focus on evaluating computational methods against high-quality experimental data.
 
@@ -58,4 +58,9 @@ The Jet Noise Prediction Workshop (JNPW) aims to establish a community-driven, s
 🔹 Identify pacing items in numerical modeling, experiment-simulation coupling, and workflow integration that hinder widespread adoption of high-fidelity jet noise prediction.<br>
 🔹 Support the long-term goal of enabling certification by analysis for aeroacoustic performance in propulsion systems.<br>
 
+<br>
 
+---
+Recent significant updates:
+
+- **July 11, 2025** – Initial draft created
