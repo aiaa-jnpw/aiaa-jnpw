@@ -6,11 +6,7 @@ description: A community benchmark effort for jet noise CFD prediction
 header_pages:
   - index.md
   - about.md
+  - cases.md
   - downloads.md
   - contact.md
-
-minima:
-  skin: auto
-  include_css:
-    - /assets/css/custom.css
 
