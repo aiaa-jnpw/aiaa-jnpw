@@ -5,14 +5,14 @@ permalink: /
 ---
 
 <center>
-  <img src="/assets/images/AIAA_logo.png" height="75"> 
-  <img src="/assets/images/NASA_logo.png" height="75">
+  <img src="{{'/assets/images/AIAA_logo.png' | relative_url }}" height="75"> 
+  <img src="{{'/assets/images/NASA_logo.png' | relative_url }}" height="75">
 </center>
 <br>
 <center>
-  <img src="/assets/images/JetPicture.jpg"  height="150"> 
-  <img src="/assets/images/JetPicture2.jpg" height="150"> 
-  <img src="/assets/images/JetCFDStich.jpg" height="150">
+  <img src="{{'/assets/images/JetPicture.jpg' | relative_url}} "  height="150"> 
+  <img src="{{'/assets/images/JetPicture2.jpg' | relative_url}}" height="150"> 
+  <img src="{{'/assets/images/JetCFDStich.jpg' | relative_url}}" height="150">
 </center>
 <br>
 
