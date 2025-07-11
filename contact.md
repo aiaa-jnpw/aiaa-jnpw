@@ -12,3 +12,7 @@ Organizers:
 - Dr. James Bridges (NASA Glenn)
 - Gerrit-Daniel Stich (NASA Ames / AMA)
 
+Workshop Committee:
+- Sanjiva Lele (Stanford)
+- TBD
+
