@@ -9,4 +9,8 @@ header_pages:
   - downloads.md
   - contact.md
 
+minima:
+  skin: auto
+  include_css:
+    - /assets/css/custom.css
 

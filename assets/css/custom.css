@@ -1,0 +1,13 @@
+body {
+  background-color: pink !important;
+}
+
+
+.big-banner-text {
+  text-align: center;
+  color: #007acc;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+

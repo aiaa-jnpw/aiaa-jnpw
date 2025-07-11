@@ -4,28 +4,34 @@ title: Jet Noise Prediction Workshop (JNPW)
 permalink: /
 ---
 
+<main>
+  <div class="big-banner-text">
+    Welcome to the Jet Noise Prediction Workshop!
+  </div>
+</main>
+
 <center>
   <img src="{{'/assets/images/AIAA_logo.png' | relative_url }}" height="75"> 
   <img src="{{'/assets/images/NASA_logo.png' | relative_url }}" height="75">
 </center>
 <br>
 <center>
-  <img src="{{'/assets/images/JetPicture.jpg' | relative_url}} "  height="150"> 
-  <img src="{{'/assets/images/JetPicture2.jpg' | relative_url}}" height="150"> 
-  <img src="{{'/assets/images/JetCFDStich.jpg' | relative_url}}" height="150">
+  <img src="{{'/assets/images/image1.jpeg'     | relative_url}}"  height="220"> 
+  <img src="{{'/assets/images/image2.png'      | relative_url}}"  height="220"> 
+  <img src="{{'/assets/images/density.png'     | relative_url}}"  height="178">
 </center>
 <br>
 
 ## **Jet Noise Prediction Workshop (JNPW)**
-Welcome to the website of the Jet Noise Prediction Workshop (JNPW). We are currently organizing the 1st workshop, which is planned to be held at AIAA SciTech 2027. A special session with early participants and pre-released reference cases is also being planned for AIAA Aviation and/or the AIAA/CEAS Aeroacoustics Conference in Brussels in 2026. We are in the process of assembling the organizing committee and look forward to bringing together experts from across the aeroacoustics and CFD communities.
+Welcome to the website of the Jet Noise Prediction Workshop (JNPW). We are currently organizing the 1st workshop, which is planned to be held at AIAA SciTech 2027. A special session with early participants and pre-released reference cases is also being planned for AIAA Aviation and/or the AIAA/CEAS Aeroacoustics Conference in Brussels in 2026. We are in the process of assembling the organizing committee and look forward to bringing together experts from across the aeroacoustics and CFD communities worldwide.
 
-The main goal of this workshop series is to assess the current state-of-the-art in CFD-based jet noise prediction, with a focus on evaluating computational methods against high-quality experimental data. The workshop is intended to provide an impartial forum for comparing numerical approaches, identifying limitations, and defining areas in need of further research and development.
+The overall goal of this workshop series is to promote LES as a trustworthy and efficient tool for aeroacoustic engineers, with a focus on evaluating computational methods against high-quality experimental data.
 
 We are currently developing the technical framework for the first workshop, including the definition of benchmark cases, evaluation metrics, and modeling guidelines. To promote technical depth and community engagement, we are considering the formation of focused working groups on key challenges.
 
 
 ## **Mission Statement**
-The Jet Noise Prediction Workshop (JNPW) aims to establish a community-driven, standardized approach to evaluating and advancing CFD-based jet noise prediction methods. Through collaboration across academia, industry, and government, the workshop seeks to benchmark current capabilities, understand key sources of uncertainty, and accelerate the development of predictive tools for aeroacoustic analysis.
+The Jet Noise Prediction Workshop (JNPW) aims to establish a community-driven, standardized approach to evaluating and advancing LES based jet noise prediction methods. Through collaboration across academia, industry, and government, the workshop seeks to benchmark current capabilities, understand key sources of uncertainty, and accelerate the development of predictive tools for aeroacoustic analysis.
 
 ## **Goals & Objectives**
 
