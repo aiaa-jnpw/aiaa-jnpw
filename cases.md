@@ -37,7 +37,7 @@ In addition to covering a range of flow conditions, these set points were intent
 ---
 <br>
 
-### **JNPW1 - Part III: Supersonic Configuration (TBD)**
+### **JNPW1 - Part III: Multi-Stream Configuration (TBD)**
 **Description:** High-speed configurations such as dual-stream nozzles, lobed mixers, twin jets, and JSI at supersonic conditions  
 **Purpose:** Extend benchmarking into the supersonic regime with advanced nozzle concepts relevant to future applications
 
