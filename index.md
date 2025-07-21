@@ -10,7 +10,6 @@ permalink: /
 
 <center>
   <img src="{{'/assets/images/AIAA_logo.png' | relative_url }}" height="75"> 
-  <img src="{{'/assets/images/NASA_logo.png' | relative_url }}" height="100">
 </center>
 <br>
 <center>
