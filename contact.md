@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
 ---
 
-# Contact
+## **Contact**
 
 Email: [jetnoisepredictionworkshop@gmail.com](mailto:jetnoisepredictionworkshop@gmail.com)
 
@@ -12,10 +12,19 @@ Organizers:
 - James Bridges (NASA GRC)
 - Gerrit-Daniel Stich (NASA ARC / AMA)
 
-Dr. 
 
 Workshop Committee:
 - Sanjiva Lele (Stanford University)
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
 - TBD
 
 <br>

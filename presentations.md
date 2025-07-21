@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Workshop Presentations
+layout: default
+title: Presentations
 permalink: /presentations/
 ---
+
+## **Workshop Presentations**
 
 
 All Workshop Presentations and relevant Documents will be hosted here in the future

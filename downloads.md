@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: default
 title: Downloads
 permalink: /downloads/
 ---
 
+## **Downloads**
 
 Here you'll find all publicly available files, geometries, and data related to JNPW.
 

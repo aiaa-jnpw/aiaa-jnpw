@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-# About the Workshop
+## **About the Workshop**
 
 The Jet Noise Prediction Workshop is organized to benchmark and advance high-fidelity CFD for jet noise predictions. Inspired by HLPW, DPW, and the High-Fidelity CFD Verification Workshop, it will provide:
 
