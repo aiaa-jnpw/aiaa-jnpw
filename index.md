@@ -51,7 +51,7 @@ The Jet Noise Prediction Workshop (JNPW) aims to establish a community-driven, s
 
 <strong>5. Facilitate Collaboration and Mutual Understanding</strong><br>
 🔹 Provide an impartial, pre-competitive forum for collaboration among experts in CFD, acoustics, and experimental aeroacoustics.<br>
-🔹 <p>Bridge the gap between solver developers and end-users by enabling direct comparison of tools and methodologies.<br>
+🔹 Bridge the gap between solver developers and end-users by enabling direct comparison of tools and methodologies.<br>
 
 <strong>6. Enable Future Capability Growth</strong><br>
 🔹 Identify pacing items in numerical modeling, experiment-simulation coupling, and workflow integration that hinder widespread adoption of high-fidelity jet noise prediction.<br>

@@ -9,8 +9,8 @@ permalink: /contact/
 Email: [jetnoisepredictionworkshop@gmail.com](mailto:jetnoisepredictionworkshop@gmail.com)
 
 Organizers:
-- James Bridges (NASA GRC)
-- Gerrit-Daniel Stich (NASA ARC / AMA)
+- James Bridges (NASA GRC)  [✉️ ](mailto:james.e.bridges@nasa.gov)
+- Gerrit-Daniel Stich (NASA ARC / AMA) [✉️ ](mailto:gerrit‑daniel.stich@nasa.gov)
 
 
 Workshop Committee:
