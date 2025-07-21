@@ -4,9 +4,14 @@ title: Agenda
 permalink: /agenda/
 ---
 
-## **Proposed Agenda**
+We invision:
+
+## **Bi-weekly Virtual Tagups**
+Regular bi-weekly meetings of registered workshop participants will be held to share updates, address technical questions, and ensure consistent progress throughout each phase.
 
 ---
+
+## **Proposed JNPW1 Summit Meetings**
 
 ## AIAA Aviation 2026 / AIAA‑CEAS Aeroacoustics Meeting 2026  
 ### Special Session: Unofficial Kickoff for JNPW  
