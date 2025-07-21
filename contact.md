@@ -12,7 +12,7 @@ Organizers:
 - James Bridges (NASA GRC)  [✉️ ](mailto:james.e.bridges@nasa.gov)
 - Gerrit-Daniel Stich (NASA ARC / AMA) [✉️ ](mailto:gerrit‑daniel.stich@nasa.gov)
 
-Workshop Committee:
+Workshop Committee (Current Status):
 - Sanjiva Lele (Stanford University)
 - TBD
 
