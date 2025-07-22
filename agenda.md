@@ -4,7 +4,9 @@ title: Agenda
 permalink: /agenda/
 ---
 
-We invision:
+The Jet Noise Prediction Workshop (JNPW) will proceed in three phases (Parts I–III), each concluding with a summit meeting timed to coincide with the AIAA Aviation and SciTech conferences (approximately every six months). Between those in‑person summits, virtual tag‑ups will provide a dedicated forum for participants to share progress and ongoing research—fostering active collaboration and driving the field forward.
+
+What we envision for the workshop: 
 
 ## **Bi-weekly Virtual Tagups**
 Regular bi-weekly meetings of registered workshop participants will be held to share updates, address technical questions, and ensure consistent progress throughout each phase.
