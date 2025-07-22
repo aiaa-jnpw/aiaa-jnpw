@@ -14,6 +14,7 @@ Organizers:
 
 Workshop Committee (Current Status):
 - Sanjiva Lele (Stanford University)
+- Mark Wernet (NASA GRC)
 - TBD
 
 Tentative Committee Duties and Expectations:
