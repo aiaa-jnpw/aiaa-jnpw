@@ -20,7 +20,7 @@ permalink: /
 ## **Jet Noise Prediction Workshop (JNPW)**
 The Jet Noise Prediction Workshop (JNPW) aims to establish a community-driven, standardized approach to evaluating and advancing LES based jet noise prediction methods. Through collaboration across academia, industry, and government, the workshop seeks to benchmark current capabilities, understand key sources of uncertainty, and accelerate the development of predictive tools for aeroacoustic analysis.
 
-The overall goal of this workshop series is to promote LES as a trustworthy and efficient tool for aeroacoustic engineers, with a focus on evaluating computational methods against high-quality experimental data.
+The overall goal of this workshop series is to promote LES as a trustworthy and efficient tool for aeroacoustic engineers, with a focus on evaluating computational methods against high‑quality experimental data. Moreover, this effort will serve as a vital step toward Certification by Analysis in aeroacoustics—paralleling the significant progress already achieved in High‑Lift Prediction and Aerodynamics.
 
 ## **Current Status**
 We are currently organizing the 1<sup>st</sup> workshop, which is planned to be held at AIAA SciTech 2027. A special session with early participants and pre-released reference cases is also being planned for AIAA Aviation and/or the AIAA/CEAS Aeroacoustics Conference in Brussels in 2026. We are in the process of assembling the organizing committee and look forward to bringing together experts from across the aeroacoustics and CFD communities worldwide.
