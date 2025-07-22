@@ -12,3 +12,8 @@ header_pages:
   - downloads.md
   - contact.md
 
+
+minima:
+  social_links:
+    - { platform: email, user_url: "mailto:gerrit-daniel.stich@nasa.gov", title: "Gerrit-Daniel Stich" }
+    - { platform: email, user_url: "mailto:james.e.bridges@nasa.gov", title: "James Bridges" }
