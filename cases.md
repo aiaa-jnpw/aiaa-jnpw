@@ -31,7 +31,7 @@ In addition to covering a range of flow conditions, these set points were intent
 <br>
 
 ### **JNPW1 - Part II: Increased Geometric Complexity (TBD)**  
-**Description:** Configurations featuring chevrons, multi-stream nozzles, rectangular geometries, and Jet-Surface Interaction (JSI) setups  
+**Description:** Configurations featuring chevrons, rectangular geometries, and Jet-Surface Interaction (JSI) setups  
 **Purpose:** Evaluate predictive performance with added geometric realism and near-field surface interactions
 
 ---
