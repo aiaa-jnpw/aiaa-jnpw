@@ -29,7 +29,7 @@ In addition to covering a range of flow conditions, these set points were intent
 
 <center>
   <img src="{{'/assets/images/SMC000.png'     | relative_url}}"  width="750"> 
-  Figure 1: Depiction of axisymmetric round jet SMC000 in NASA experimental facility
+  Figure 1: Depiction of axisymmetric round jet SMC000 
 </center>
 
 <br>
