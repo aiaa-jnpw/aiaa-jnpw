@@ -28,7 +28,7 @@ In addition to covering a range of flow conditions, these set points were intent
 {% include case1-table2.html %}
 
 <center>
-  <img src="{{'/assets/images/SHAR_Rig.png'     | relative_url}}"  width="750"> 
+  <img src="{{'/assets/images/SMC000.webp.png'     | relative_url}}"  width="750"> 
   Figure 1: Depiction of axisymmetric round jet SMC000 in NASA experimental facility
 </center>
 
