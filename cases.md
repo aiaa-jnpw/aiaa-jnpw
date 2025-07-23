@@ -20,6 +20,11 @@ The Jet Noise Prediction Workshop (JNPW) will release a series of test cases in 
 **Description:** Single-stream, isolated round jet based on the SMC000 configuration  
 **Purpose:** Establish a baseline using a well-documented canonical jet flow for initial solver comparisons
 
+<center>
+  <img src="{{'/assets/images/SMC000.png'     | relative_url}}"  width="750"> 
+  Figure 1: Depiction of axisymmetric round jet SMC000 
+</center>
+
 ### **Selected Flow Conditions**
 The following table summarizes the selected operating points for Case I, chosen to span a range of subsonic jet conditions. These cases represent the minimum required simulations for workshop participants and are intended to assess baseline solver capability for jet noise prediction.
 
@@ -28,8 +33,9 @@ In addition to covering a range of flow conditions, these set points were intent
 {% include case1-table2.html %}
 
 <center>
-  <img src="{{'/assets/images/SMC000.png'     | relative_url}}"  width="750"> 
-  Figure 1: Depiction of axisymmetric round jet SMC000 
+  <img src="{{'/assets/images/D2aMatrix.png'              | relative_url}}"  width="650"> 
+  <br>
+  Figure 2: PIV Consensus Flow Matrix
 </center>
 
 <br>
@@ -43,7 +49,7 @@ In addition to covering a range of flow conditions, these set points were intent
 
 <center>
   <img src="{{'/assets/images/experimental_setup.png'     | relative_url}}"  width="750"> 
-  Figure 2: Depiction of SMC000 nozzle configuration with added plate at h/D = 1.0
+  Figure 3: Depiction of SMC000 nozzle configuration with added plate at h/D = 1.0
 </center>
 
 <br>
@@ -76,7 +82,7 @@ In addition to covering a range of flow conditions, these set points were intent
     <img src="{{'/assets/images/122DLm5p2069.4k.ao.png' | relative_url}}" 
          style="width: 500px; height: 250px; object-fit: cover; object-position: -55px -10px;">
   </div>
-  Figure 3: Depiction of multi-stream plug20 nozzle with internal / external (top / bottom) plug and axisymmetric / lobed (left / right) mixer
+  Figure 4: Depiction of multi-stream plug20 nozzle with internal / external (top / bottom) plug and axisymmetric / lobed (left / right) mixer
 </center>
 
 
