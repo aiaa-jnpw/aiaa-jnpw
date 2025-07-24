@@ -15,6 +15,9 @@ Organizers:
 Workshop Committee (Current Status):
 - Sanjiva Lele (Stanford University)
 - Mark Wernet (NASA GRC)
+- Christophe Bogey (CNRS)
+- Damiano Casalino (TU Delft)
+- Soshi Kawai (Tohoku University)
 - TBD
 
 Tentative Committee Duties and Expectations:
