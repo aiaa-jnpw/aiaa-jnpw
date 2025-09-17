@@ -43,19 +43,6 @@ In addition to covering a range of flow conditions, these set points were intent
 ---
 <br>
 
-## **JNPW1 - Part II: Increased Geometric Complexity (TBD)**  
-**Description:** Configurations featuring chevrons, rectangular geometries, and Jet-Surface Interaction (JSI) setups  
-**Purpose:** Evaluate predictive performance with added geometric realism and near-field surface interactions
-
-<center>
-  <img src="{{'/assets/images/experimental_setup.png'     | relative_url}}"  width="750"> 
-  Figure 3: Depiction of SMC000 nozzle configuration with added plate at h/D = 1.0
-</center>
-
-<br>
-
----
-<br>
 
 ## **JNPW1 - Part III: Multi-Stream Configuration (TBD)**
 **Description:** High-speed configurations such as dual-stream nozzles, lobed mixers, twin jets, and JSI at supersonic conditions  
@@ -85,6 +72,20 @@ In addition to covering a range of flow conditions, these set points were intent
   Figure 4: Depiction of multi-stream plug20 nozzle with internal / external (top / bottom) plug and axisymmetric / lobed (left / right) mixer
 </center>
 
+
+<br>
+
+---
+<br>
+
+## **JNPW1 - Part II: Increased Geometric Complexity (TBD)**  
+**Description:** Configurations featuring chevrons, rectangular geometries, and Jet-Surface Interaction (JSI) setups  
+**Purpose:** Evaluate predictive performance with added geometric realism and near-field surface interactions
+
+<center>
+  <img src="{{'/assets/images/TMP17.png'     | relative_url}}"  width="750"> 
+  Figure 3: Depiction of SMC000 nozzle configuration with added plate at h/D = 1.0
+</center>
 
 
 <br>
