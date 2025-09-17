@@ -84,7 +84,7 @@ In addition to covering a range of flow conditions, these set points were intent
 
 <center>
   <img src="{{'/assets/images/TMP17.png'     | relative_url}}"  width="750"> 
-  Figure 3: Depiction of SMC000 nozzle configuration with added plate at h/D = 1.0
+  Figure 3: Depiction of Top Mounted Propulsion (TMP17) Test Case
 </center>
 
 
